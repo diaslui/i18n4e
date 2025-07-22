@@ -44,7 +44,7 @@
 		"internationalization"
 	],
 	"devDependencies": {
-		"@types/cheerio": "^0.22.35",
+		"@types/cheerio": "^1.0.0",
 		"@types/express": "^5.0.0",
 		"@types/express-session": "^1.18.0",
 		"@types/node": "^24.0.3",
